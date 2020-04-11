@@ -44,7 +44,7 @@
 	},
 	{
 		"abr": "animalbed",
-		"price": 350,
+		"price": 400,
 		"category": "Furniture",
 		"defname": "AnimalBed"
 	},
@@ -920,7 +920,7 @@
 	},
 	{
 		"abr": "longsword",
-		"price": 750,
+		"price": 800,
 		"category": "Melee weapons",
 		"defname": "MeleeWeapon_LongSword"
 	},
@@ -1118,7 +1118,7 @@
 	},
 	{
 		"abr": "plantpot",
-		"price": 200,
+		"price": 250,
 		"category": "Furniture",
 		"defname": "PlantPot"
 	},
@@ -1130,7 +1130,7 @@
 	},
 	{
 		"abr": "platearmor",
-		"price": 1100,
+		"price": 1200,
 		"category": "Armour",
 		"defname": "Apparel_PlateArmor"
 	},
@@ -1310,7 +1310,7 @@
 	},
 	{
 		"abr": "smokeleafjoint",
-		"price": 150,
+		"price": 75,
 		"category": "Drugs",
 		"defname": "SmokeleafJoint"
 	},
@@ -2294,7 +2294,7 @@
 	},
 	{
 		"abr": "lampm(white)",
-		"price": 200,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "GL_LampM_White"
 	},
@@ -2354,7 +2354,7 @@
 	},
 	{
 		"abr": "oakbarrel",
-		"price": 200,
+		"price": 250,
 		"category": "Furniture",
 		"defname": "RGK_orc"
 	},
@@ -2450,7 +2450,7 @@
 	},
 	{
 		"abr": "replicaflower",
-		"price": 200,
+		"price": 250,
 		"category": "Furniture",
 		"defname": "RGK_Flower"
 	},
@@ -3050,7 +3050,7 @@
 	},
 	{
 		"abr": "grimoireoftheoccult",
-		"price": 2000,
+		"price": 2500,
 		"category": "Books",
 		"defname": "Cults_Grimoire"
 	},
@@ -3068,7 +3068,7 @@
 	},
 	{
 		"abr": "hotbrandingiron",
-		"price": 500,
+		"price": 600,
 		"category": "Melee weapons",
 		"defname": "ROM_BrandingIron"
 	},
@@ -3254,7 +3254,7 @@
 	},
 	{
 		"abr": "polehook",
-		"price": 400,
+		"price": 450,
 		"category": "Melee weapons",
 		"defname": "ROM_PoleHook"
 	},
@@ -3470,7 +3470,7 @@
 	},
 	{
 		"abr": "thekinginyellow",
-		"price": 2000,
+		"price": 2500,
 		"category": "Books",
 		"defname": "Cults_TheKingInYellow"
 	},
@@ -3512,7 +3512,7 @@
 	},
 	{
 		"abr": "ancientmail",
-		"price": 3800,
+		"price": 4300,
 		"category": "Magic equipment",
 		"defname": "AncientMail"
 	},
@@ -3572,7 +3572,7 @@
 	},
 	{
 		"abr": "arcanehood",
-		"price": 1400,
+		"price": 3400,
 		"category": "Magic equipment",
 		"defname": "ArcaneHood"
 	},
@@ -3686,7 +3686,7 @@
 	},
 	{
 		"abr": "armorofthevaliant",
-		"price": 5000,
+		"price": 5500,
 		"category": "Magic equipment",
 		"defname": "RoyalArmor"
 	},
@@ -4016,13 +4016,13 @@
 	},
 	{
 		"abr": "gemofarcaneinsight",
-		"price": 6500,
+		"price": 7000,
 		"category": "Magic artifacts",
 		"defname": "GemstoneOfInsight_Magic"
 	},
 	{
 		"abr": "gemofphysicalinsight",
-		"price": 5000,
+		"price": 5500,
 		"category": "Magic artifacts",
 		"defname": "GemstoneOfInsight_Might"
 	},
@@ -4040,13 +4040,13 @@
 	},
 	{
 		"abr": "helmofthevaliant",
-		"price": 2100,
+		"price": 2600,
 		"category": "Magic equipment",
 		"defname": "RoyalHelm"
 	},
 	{
 		"abr": "hoodofmadness",
-		"price": 2100,
+		"price": 2600,
 		"category": "Magic equipment",
 		"defname": "HoodOfMadness"
 	},
@@ -4388,7 +4388,7 @@
 	},
 	{
 		"abr": "paragon'shelm",
-		"price": 3500,
+		"price": 4500,
 		"category": "Magic equipment",
 		"defname": "ParagonHelm"
 	},
@@ -4814,7 +4814,7 @@
 	},
 	{
 		"abr": "ballista",
-		"price": 830,
+		"price": 1180,
 		"category": "Security",
 		"defname": "MedTimes_Turret_Ballista"
 	},
@@ -4856,7 +4856,7 @@
 	},
 	{
 		"abr": "beardedbattleaxe",
-		"price": 700,
+		"price": 750,
 		"category": "Melee weapons",
 		"defname": "MedTimes_Melee_AxeBearded"
 	},
@@ -4910,7 +4910,7 @@
 	},
 	{
 		"abr": "boarspear",
-		"price": 450,
+		"price": 600,
 		"category": "Melee weapons",
 		"defname": "MedTimes_Melee_BoarSpear"
 	},
@@ -4928,7 +4928,7 @@
 	},
 	{
 		"abr": "brigandine",
-		"price": 1000,
+		"price": 1400,
 		"category": "Armour",
 		"defname": "MedTimes_Brigandine"
 	},
@@ -4952,7 +4952,7 @@
 	},
 	{
 		"abr": "catapult",
-		"price": 1070,
+		"price": 1570,
 		"category": "Security",
 		"defname": "MedTimes__Artillery_Catapult"
 	},
@@ -4964,7 +4964,7 @@
 	},
 	{
 		"abr": "claymore",
-		"price": 650,
+		"price": 700,
 		"category": "Melee weapons",
 		"defname": "MedTimes_Melee_Claymore"
 	},
@@ -5126,7 +5126,7 @@
 	},
 	{
 		"abr": "encasedsteelarmour",
-		"price": 1200,
+		"price": 2100,
 		"category": "Armour",
 		"defname": "MedTimes_EncasedSteel"
 	},
@@ -5138,7 +5138,7 @@
 	},
 	{
 		"abr": "encasedsteelboots",
-		"price": 1000,
+		"price": 1650,
 		"category": "Armour",
 		"defname": "MedTimes_Boots_EncasedSteel"
 	},
@@ -5150,7 +5150,7 @@
 	},
 	{
 		"abr": "encasedsteelgauntlets",
-		"price": 1000,
+		"price": 1500,
 		"category": "Armour",
 		"defname": "MedTimes_Gauntlets_EncasedSteel"
 	},
@@ -5192,7 +5192,7 @@
 	},
 	{
 		"abr": "forester'saxe",
-		"price": 300,
+		"price": 350,
 		"category": "Melee weapons",
 		"defname": "MedTimes_Melee_AxeForester"
 	},
@@ -5264,13 +5264,13 @@
 	},
 	{
 		"abr": "gambison",
-		"price": 800,
+		"price": 850,
 		"category": "Armour",
 		"defname": "MedTimes_ArmBody_Gambison"
 	},
 	{
 		"abr": "gardeningbox",
-		"price": 800,
+		"price": 650,
 		"category": "Production",
 		"defname": "MedTimes_GardeningBox"
 	},
@@ -5360,7 +5360,7 @@
 	},
 	{
 		"abr": "halberd",
-		"price": 650,
+		"price": 900,
 		"category": "Melee weapons",
 		"defname": "MedTimes_Melee_Halberd"
 	},
@@ -5456,7 +5456,7 @@
 	},
 	{
 		"abr": "longbow",
-		"price": 300,
+		"price": 350,
 		"category": "Ranged weapons",
 		"defname": "MedTimes_Ranged_Longbow"
 	},
@@ -5504,7 +5504,7 @@
 	},
 	{
 		"abr": "medievallongsword",
-		"price": 650,
+		"price": 700,
 		"category": "Melee weapons",
 		"defname": "MedTimes_Melee_SwordLong"
 	},
@@ -5522,7 +5522,7 @@
 	},
 	{
 		"abr": "morningstar",
-		"price": 650,
+		"price": -10,
 		"category": "Melee weapons",
 		"defname": "MedTimes_Melee_MorningStar"
 	},
@@ -5570,7 +5570,7 @@
 	},
 	{
 		"abr": "one-handedflangedmace",
-		"price": 650,
+		"price": 750,
 		"category": "Melee weapons",
 		"defname": "MedTimes_Melee_MaceFlanged"
 	},
@@ -5582,7 +5582,7 @@
 	},
 	{
 		"abr": "one-handedmace",
-		"price": 550,
+		"price": 600,
 		"category": "Melee weapons",
 		"defname": "MedTimes_Melee_MaceHand"
 	},
@@ -5618,7 +5618,7 @@
 	},
 	{
 		"abr": "platedgloves",
-		"price": 650,
+		"price": 850,
 		"category": "Armour",
 		"defname": "MedTimes_Gloves_Plated"
 	},
@@ -5660,7 +5660,7 @@
 	},
 	{
 		"abr": "royaldeathplatearmour",
-		"price": 1500,
+		"price": 2200,
 		"category": "Armour",
 		"defname": "MedTimes_RoyalPlated_Death"
 	},
@@ -5672,7 +5672,7 @@
 	},
 	{
 		"abr": "royalmask",
-		"price": 1300,
+		"price": 1600,
 		"category": "Armour",
 		"defname": "MedTimes_Helm_RoyalMask"
 	},
@@ -5684,7 +5684,7 @@
 	},
 	{
 		"abr": "royalplatedarmour",
-		"price": 1300,
+		"price": 2300,
 		"category": "Armour",
 		"defname": "MedTimes_RoyalPlated"
 	},
@@ -5696,7 +5696,7 @@
 	},
 	{
 		"abr": "royalplatedarmourandcape",
-		"price": 1800,
+		"price": 2600,
 		"category": "Armour",
 		"defname": "MedTimes_RoyalPlated_CapedBlue"
 	},
@@ -5708,7 +5708,7 @@
 	},
 	{
 		"abr": "royalplatedboots",
-		"price": 1100,
+		"price": 1500,
 		"category": "Armour",
 		"defname": "MedTimes_Boots_RoyalPlated"
 	},
@@ -5720,7 +5720,7 @@
 	},
 	{
 		"abr": "royalplatedgauntlets",
-		"price": 1100,
+		"price": 1700,
 		"category": "Armour",
 		"defname": "MedTimes_Gauntlets_RoyalPlated"
 	},
@@ -5744,7 +5744,7 @@
 	},
 	{
 		"abr": "sallethelmet",
-		"price": 850,
+		"price": 950,
 		"category": "Armour",
 		"defname": "MedTimes_Helm_Sallet"
 	},
@@ -5762,7 +5762,7 @@
 	},
 	{
 		"abr": "scaledboots",
-		"price": 750,
+		"price": 850,
 		"category": "Armour",
 		"defname": "MedTimes_Boots_Scaled"
 	},
@@ -5774,7 +5774,7 @@
 	},
 	{
 		"abr": "scaledgloves",
-		"price": 750,
+		"price": 850,
 		"category": "Armour",
 		"defname": "MedTimes_Gloves_Scaled"
 	},
@@ -5798,7 +5798,7 @@
 	},
 	{
 		"abr": "shortsword",
-		"price": 500,
+		"price": 550,
 		"category": "Melee weapons",
 		"defname": "MedTimes_Melee_ShortSword"
 	},
@@ -5888,7 +5888,7 @@
 	},
 	{
 		"abr": "societyroyalplatedarmour",
-		"price": 1500,
+		"price": 2600,
 		"category": "Armour",
 		"defname": "MedTimes_RoyalPlated_CapedGreen"
 	},
@@ -5966,7 +5966,7 @@
 	},
 	{
 		"abr": "storagepallet",
-		"price": 200,
+		"price": 250,
 		"category": "Furniture",
 		"defname": "MedTimes_StoragePallet"
 	},
@@ -6008,7 +6008,7 @@
 	},
 	{
 		"abr": "suspendedtrousers",
-		"price": 60,
+		"price": 600,
 		"category": "Bodygear",
 		"defname": "MedTimes_AppBody_Trousers"
 	},
@@ -6020,13 +6020,13 @@
 	},
 	{
 		"abr": "tailoredgloves",
-		"price": 250,
+		"price": 350,
 		"category": "Handgear",
 		"defname": "MedTimes_Gloves_Tailored"
 	},
 	{
 		"abr": "tailoredsocks",
-		"price": 500,
+		"price": 550,
 		"category": "Footgear",
 		"defname": "MedTimes_Socks_Tailored"
 	},
@@ -6218,7 +6218,7 @@
 	},
 	{
 		"abr": "warbandroyalplatedarmour",
-		"price": 1400,
+		"price": 2700,
 		"category": "Armour",
 		"defname": "MedTimes_RoyalPlated_CapedOrange"
 	},
@@ -6242,7 +6242,7 @@
 	},
 	{
 		"abr": "warbourne'sboots",
-		"price": 1200,
+		"price": 1700,
 		"category": "Armour",
 		"defname": "MedTimes_Boots_Warbourne"
 	},
@@ -6254,7 +6254,7 @@
 	},
 	{
 		"abr": "warbourne'schain",
-		"price": 1100,
+		"price": 2100,
 		"category": "Armour",
 		"defname": "MedTimes_Warbourne"
 	},
@@ -6266,7 +6266,7 @@
 	},
 	{
 		"abr": "warbourne'sgauntlets",
-		"price": 1100,
+		"price": 1600,
 		"category": "Armour",
 		"defname": "MedTimes_Gauntlets_Warbourne"
 	},
@@ -6308,7 +6308,7 @@
 	},
 	{
 		"abr": "warhammer",
-		"price": 750,
+		"price": 800,
 		"category": "Melee weapons",
 		"defname": "MedTimes_Melee_WarHammer"
 	},
@@ -6374,7 +6374,7 @@
 	},
 	{
 		"abr": "winterboots",
-		"price": 550,
+		"price": 600,
 		"category": "Footgear",
 		"defname": "MedTimes_Boots_Winter"
 	},
@@ -6386,7 +6386,7 @@
 	},
 	{
 		"abr": "wintergloves",
-		"price": 300,
+		"price": 350,
 		"category": "Handgear",
 		"defname": "MedTimes_Gloves_Winter"
 	},
@@ -6457,77 +6457,203 @@
 		"defname": "MedTimes_WoodenPlates_Nan"
 	},
 	{
+		"abr": "animalplatearmor",
+		"price": 1100,
+		"category": "[Animal Apparel]",
+		"defname": "Apparel_AnimalPlateArmor"
+	},
+	{
+		"abr": "bardiche",
+		"price": 442,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_Bardiche"
+	},
+	{
+		"abr": "bōstaff",
+		"price": 650,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_Bo_Staff"
+	},
+	{
+		"abr": "brassknuckles",
+		"price": 350,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_Brass_Knuckles"
+	},
+	{
+		"abr": "bridle",
+		"price": 600,
+		"category": "[Animal Apparel]",
+		"defname": "Apparel_bridle"
+	},
+	{
+		"abr": "claymore",
+		"price": 650,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_Claymore"
+	},
+	{
+		"abr": "flail",
+		"price": 750,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_Flail"
+	},
+	{
+		"abr": "glaive",
+		"price": 800,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_Glaive"
+	},
+	{
+		"abr": "greataxe",
+		"price": 850,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_Great_Axe"
+	},
+	{
+		"abr": "katana",
+		"price": 650,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_Katana"
+	},
+	{
+		"abr": "kukri",
+		"price": 450,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_Kukri"
+	},
+	{
+		"abr": "maul",
+		"price": 650,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_Maul"
+	},
+	{
+		"abr": "morningstar",
+		"price": 750,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_Morning_Star"
+	},
+	{
+		"abr": "naginata",
+		"price": 700,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_Naginata"
+	},
+	{
+		"abr": "nunchaku",
+		"price": 650,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_Nunchaku"
+	},
+	{
+		"abr": "petscarf",
+		"price": 600,
+		"category": "[Animal Apparel]",
+		"defname": "Apparel_AnimalScarf"
+	},
+	{
+		"abr": "primitiveknife",
+		"price": 150,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_Primitive_Knife"
+	},
+	{
+		"abr": "sabre",
+		"price": 650,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_Sabre"
+	},
+	{
+		"abr": "scythe",
+		"price": 450,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_Scythe"
+	},
+	{
+		"abr": "tonfa",
+		"price": 750,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_Tonfa"
+	},
+	{
+		"abr": "zweihander",
+		"price": 650,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_Zweihander"
+	},
+	{
 		"abr": "guestbed",
-		"price": -10,
+		"price": 155,
 		"category": "Furniture",
 		"defname": "BedGuest"
 	},
 	{
 		"abr": "guestbed",
-		"price": 650,
+		"price": 155,
 		"category": "Furniture",
 		"defname": "RGK_bedSingleGuest"
 	},
 	{
 		"abr": "guestbed",
-		"price": -10,
+		"price": 155,
 		"category": "Furniture",
 		"defname": "RGK_bedSingleBGuest"
 	},
 	{
 		"abr": "guestbedroll",
-		"price": 200,
+		"price": 137,
 		"category": "Furniture",
 		"defname": "BedrollGuest"
 	},
 	{
 		"abr": "guestclassydoublebed",
-		"price": -10,
+		"price": 942,
 		"category": "Furniture",
 		"defname": "GL_ClassyDoubleBedGuest"
 	},
 	{
 		"abr": "guestdoublebed",
-		"price": -10,
+		"price": 292,
 		"category": "Furniture",
 		"defname": "DoubleBedGuest"
 	},
 	{
 		"abr": "guestdoublebed",
-		"price": 1000,
+		"price": 292,
 		"category": "Furniture",
 		"defname": "RGK_bedDoubleGuest"
 	},
 	{
 		"abr": "guestdoublebed2",
-		"price": -10,
+		"price": 292,
 		"category": "Furniture",
 		"defname": "RGK_bedDoubleBGuest"
 	},
 	{
 		"abr": "guestdoublebedroll",
-		"price": -10,
+		"price": 290,
 		"category": "Furniture",
 		"defname": "BedrollDoubleGuest"
 	},
 	{
 		"abr": "guestmedievalcot",
-		"price": 220,
+		"price": 138,
 		"category": "Furniture",
 		"defname": "MedTimes_CotGuest"
 	},
 	{
 		"abr": "guestmedievaldoublecot",
-		"price": -10,
+		"price": 256,
 		"category": "Furniture",
 		"defname": "MedTimes_CotDoubleGuest"
 	},
 	{
 		"abr": "guestroyalbed",
-		"price": -10,
+		"price": 1467,
 		"category": "Furniture",
 		"defname": "RoyalBedGuest"
 	}
 	],
-	"total": 2778
+	"total": 3045
 }
