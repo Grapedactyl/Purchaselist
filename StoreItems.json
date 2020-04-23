@@ -92,7 +92,7 @@
 	},
 	{
 		"abr": "bed",
-		"price": -10,
+		"price": 650,
 		"category": "Furniture",
 		"defname": "Bed"
 	},
@@ -434,7 +434,7 @@
 	},
 	{
 		"abr": "doublebedroll",
-		"price": -10,
+		"price": 290,
 		"category": "Furniture",
 		"defname": "BedrollDouble"
 	},
@@ -2671,12 +2671,6 @@
 		"defname": "MegascreenTelevision"
 	},
 	{
-		"abr": "methadone",
-		"price": -10,
-		"category": "Drugs",
-		"defname": "Methadone"
-	},
-	{
 		"abr": "minigun",
 		"price": 1933,
 		"category": "Ranged weapons",
@@ -2837,18 +2831,6 @@
 		"price": 6667,
 		"category": "Items",
 		"defname": "AIPersonaCore"
-	},
-	{
-		"abr": "plasteeleye",
-		"price": 93,
-		"category": "Prosthetic",
-		"defname": "vnfp_PlasteelEye"
-	},
-	{
-		"abr": "plasteelnose",
-		"price": 93,
-		"category": "Prosthetic",
-		"defname": "vnfp_PlasteelNose"
 	},
 	{
 		"abr": "powerclaw",
@@ -4927,12 +4909,6 @@
 		"defname": "ChunkUraniumOre"
 	},
 	{
-		"abr": "butchershelf",
-		"price": 265,
-		"category": "Furniture",
-		"defname": "SM_ButcherShelf"
-	},
-	{
 		"abr": "deepbowl",
 		"price": 104,
 		"category": "Furniture",
@@ -4987,84 +4963,6 @@
 		"defname": "SM_Curtains"
 	},
 	{
-		"abr": "kitchencupboarda",
-		"price": 166,
-		"category": "Furniture",
-		"defname": "SM_KitchenCupboard_A"
-	},
-	{
-		"abr": "kitchencupboardb",
-		"price": 206,
-		"category": "Furniture",
-		"defname": "SM_KitchenCupboard_B"
-	},
-	{
-		"abr": "kitchencupboardc",
-		"price": 206,
-		"category": "Furniture",
-		"defname": "SM_KitchenCupboard_C"
-	},
-	{
-		"abr": "kitchencupboardcorner",
-		"price": 108,
-		"category": "Furniture",
-		"defname": "SM_CornerIRD"
-	},
-	{
-		"abr": "kitchensink",
-		"price": 342,
-		"category": "Furniture",
-		"defname": "SM_Sink"
-	},
-	{
-		"abr": "apples",
-		"price": 2,
-		"category": "Fruits",
-		"defname": "Rawapple"
-	},
-	{
-		"abr": "bean",
-		"price": 2,
-		"category": "Raw vegetarian",
-		"defname": "Rawbean"
-	},
-	{
-		"abr": "bluecorn",
-		"price": 2,
-		"category": "Raw vegetarian",
-		"defname": "RawBlueCorn"
-	},
-	{
-		"abr": "peach",
-		"price": 2,
-		"category": "Fruits",
-		"defname": "Rawpeach"
-	},
-	{
-		"abr": "pumpkin",
-		"price": 2,
-		"category": "Raw vegetarian",
-		"defname": "Rawpumpkin"
-	},
-	{
-		"abr": "redlentil",
-		"price": 3,
-		"category": "Raw meat",
-		"defname": "RawRedLentil"
-	},
-	{
-		"abr": "squash",
-		"price": 2,
-		"category": "Raw vegetarian",
-		"defname": "Rawsquash"
-	},
-	{
-		"abr": "tomatoes",
-		"price": 2,
-		"category": "Raw vegetarian",
-		"defname": "RawTomatoes"
-	},
-	{
 		"abr": "richsoil",
 		"price": 2,
 		"category": "Raw resources",
@@ -5072,46 +4970,10 @@
 	},
 	{
 		"abr": "soil",
-		"price": 201,
+		"price": 1,
 		"category": "Raw resources",
 		"defname": "FSFItemSoil"
 	},
-	{
-		"abr": "guestbed",
-		"price": 155,
-		"category": "Furniture",
-		"defname": "BedGuest"
-	},
-	{
-		"abr": "guestbedroll",
-		"price": 137,
-		"category": "Furniture",
-		"defname": "BedrollGuest"
-	},
-	{
-		"abr": "guestdoublebed",
-		"price": 292,
-		"category": "Furniture",
-		"defname": "DoubleBedGuest"
-	},
-	{
-		"abr": "guestdoublebedroll",
-		"price": 290,
-		"category": "Furniture",
-		"defname": "BedrollDoubleGuest"
-	},
-	{
-		"abr": "guesthospitalbed",
-		"price": 667,
-		"category": "Furniture",
-		"defname": "HospitalBedGuest"
-	},
-	{
-		"abr": "guestroyalbed",
-		"price": 1467,
-		"category": "Furniture",
-		"defname": "RoyalBedGuest"
-	}
 	],
-	"total": 5547
+	"total": 5553
 }
