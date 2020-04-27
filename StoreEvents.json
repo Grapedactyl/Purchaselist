@@ -2,7 +2,7 @@
 	"incitems" : [
 	{
 		"abr": "tornado",
-		"price": 2000,
+		"price": 2500,
 		"karmatype": "Doom"
 	},
 	{
@@ -12,7 +12,7 @@
 	},
 	{
 		"abr": "rain",
-		"price": 350,
+		"price": 250,
 		"karmatype": "Good"
 	},
 	{
@@ -62,7 +62,7 @@
 	},
 	{
 		"abr": "coldsnap",
-		"price": 1500,
+		"price": 2500,
 		"karmatype": "Doom"
 	},
 	{
@@ -72,7 +72,7 @@
 	},
 	{
 		"abr": "toxicfallout",
-		"price": 6500,
+		"price": 7500,
 		"karmatype": "Doom"
 	},
 	{
@@ -102,7 +102,7 @@
 	},
 	{
 		"abr": "meteor",
-		"price": 600,
+		"price": 800,
 		"karmatype": "Good"
 	},
 	{
@@ -122,7 +122,7 @@
 	},
 	{
 		"abr": "farmanimals",
-		"price": 100000,
+		"price": 600,
 		"karmatype": "Good"
 	},
 	{
@@ -137,7 +137,7 @@
 	},
 	{
 		"abr": "travelergroup",
-		"price": 600,
+		"price": 300,
 		"karmatype": "Good"
 	},
 	{
@@ -196,13 +196,18 @@
 		"karmatype": "Bad"
 	},
 	{
+		"abr": "reviveanypawn",
+		"price": 800,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "pawn",
 		"price": 1600,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "levelskill",
-		"price": 1500,
+		"price": 1000,
 		"karmatype": "Good"
 	},
 	{
@@ -237,9 +242,9 @@
 	},
 	{
 		"abr": "hodlbotvote",
-		"price": 601,
+		"price": 600,
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 48
+	"total": 49
 }
